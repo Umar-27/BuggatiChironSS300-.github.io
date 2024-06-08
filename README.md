@@ -60,7 +60,7 @@
         <h1>Bugatti Chiron Super Sport 300+</h1>
     </header>
     <section>
-        <p>The Bugatti Chiron Super Sport 300+ is a hypercar that redefines speed and performance. It made history by becoming the first production car to break the 300 mph barrier, achieving a top speed of 304.773 mph (490.484 km/h) on the Ehra-Lessien test track in Germany.</p>
+        <p>The Bugatti Chiron Super Sport 300+ is a hypercar that redefines speed and performance. It made history by becoming the first production car to break the 300 mph barrier, achieving a top speed of 304.773 mph (490.484 km/h) on the Ehra-Lessien test track in Germany. Unlike the Koenigsegg Jesko Absolut the Buggati Chiron SS300+ does not have a theortical calculated speed And Was Tested on track.</p>
     </section>
     <section class="image-container">
         <img src="https://www.bugatti.com/fileadmin/_processed_/sei/p1/se-image-6908f2624beebd6f231083337c2f530b.jpg" alt="Bugatti Chiron Super Sport 300+ Front">
